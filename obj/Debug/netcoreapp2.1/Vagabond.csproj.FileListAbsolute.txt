@@ -1,0 +1,11 @@
+C:\Users\Treebark1313\git\Vagabond\bin\Debug\netcoreapp2.1\Vagabond.deps.json
+C:\Users\Treebark1313\git\Vagabond\bin\Debug\netcoreapp2.1\Vagabond.runtimeconfig.json
+C:\Users\Treebark1313\git\Vagabond\bin\Debug\netcoreapp2.1\Vagabond.runtimeconfig.dev.json
+C:\Users\Treebark1313\git\Vagabond\bin\Debug\netcoreapp2.1\Vagabond.dll
+C:\Users\Treebark1313\git\Vagabond\bin\Debug\netcoreapp2.1\Vagabond.pdb
+C:\Users\Treebark1313\git\Vagabond\obj\Debug\netcoreapp2.1\Vagabond.csprojAssemblyReference.cache
+C:\Users\Treebark1313\git\Vagabond\obj\Debug\netcoreapp2.1\Vagabond.csproj.CoreCompileInputs.cache
+C:\Users\Treebark1313\git\Vagabond\obj\Debug\netcoreapp2.1\Vagabond.AssemblyInfoInputs.cache
+C:\Users\Treebark1313\git\Vagabond\obj\Debug\netcoreapp2.1\Vagabond.AssemblyInfo.cs
+C:\Users\Treebark1313\git\Vagabond\obj\Debug\netcoreapp2.1\Vagabond.dll
+C:\Users\Treebark1313\git\Vagabond\obj\Debug\netcoreapp2.1\Vagabond.pdb
